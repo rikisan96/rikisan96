@@ -1,4 +1,4 @@
-# Riccardo Cutrueno
+# Riccardo Cutruneo
 Full-stack Web Developer with passion for trying out new technologies, breaking code and videogames.
 
 
